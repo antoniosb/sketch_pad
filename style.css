@@ -1,0 +1,25 @@
+div.grid{
+    width: 30px;
+    height: 30px;
+    border: 1px solid #66B866;
+    display: inline-block;
+    border-left: 0;
+}
+.line > div:first-child{
+    border: 1px solid #66B866;
+}
+
+div#container{
+    background: #80E680;
+    /*width: 100%;*/
+    line-height: 0px;
+    display: inline-block;
+}
+
+button {
+    width: 90px;
+    height: 30px;
+    margin: 0px 0px 5px 0px;
+    border: 1px solid #66B866;
+    background: #80E680;
+}
